@@ -1,0 +1,64 @@
+{
+  "project_info": {
+    "project_id": "mcmlxxxiv-9776a",
+    "project_number": "310412028469",
+    "name": "MCMLXXXIV",
+    "firebase_url": "https://mcmlxxxiv-9776a.firebaseio.com",
+    "storage_bucket": "mcmlxxxiv-9776a.storage.firebase.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:310412028469:android:81b56714484b9ed2",
+        "client_id": "android:com.novoda.mcmlxxxiv",
+        "client_type": 1,
+        "android_client_info": {
+          "package_name": "com.novoda.mcmlxxxiv",
+          "certificate_hash": []
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "310412028469-d59lcdb88a6ogjuo2tepo24a9a8a664v.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.novoda.mcmlxxxiv",
+            "certificate_hash": "4298F38210934A4145000AB0BF16180E840B9EE3"
+          }
+        },
+        {
+          "client_id": "310412028469-ofqs93030l1mne61jmjb27rnlnoegvov.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGphEDEuml_PhYR5MoGYtQORZ-y8lJr3g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "cloud_messaging_service": {
+          "status": 1,
+          "apns_config": []
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "google_signin_service": {
+          "status": 1
+        },
+        "ads_service": {
+          "status": 2,
+          "test_banner_ad_unit_id": "ca-app-pub-3940256099942544/6300978111",
+          "test_interstitial_ad_unit_id": "ca-app-pub-3940256099942544/1033173712"
+        }
+      }
+    }
+  ],
+  "client_info": [],
+  "ARTIFACT_VERSION": "1"
+}
